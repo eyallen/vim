@@ -3,8 +3,7 @@
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 syntax enable
-set background=dark
-colorscheme codedark
+colorscheme badwolf
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => Spaces & Tabs
